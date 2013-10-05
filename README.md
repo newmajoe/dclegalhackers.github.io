@@ -16,4 +16,14 @@ ABOUT
 EVENTS 
 * Meetup 
 * Hackathons 
-* 
+* Workshops 
+
+PROJECTS
+* From Hackathon
+* Ongoing?
+* Past Projects by Members 
+
+RESOURCES
+* Github 101 
+* Learn to code
+* Learn about the Legal Hacking greater Community 
