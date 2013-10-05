@@ -1,4 +1,4 @@
 dclegalhackers.github.io
 ========================
 
-Budding website of legal hack. 
+A budding website of legal hack. 
