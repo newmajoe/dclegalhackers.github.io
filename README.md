@@ -14,8 +14,8 @@ ABOUT
 * + Meetup embed 
 
 EVENTS 
-* Meetup 
-* Hackathons 
+* Monthly Meetup 
+* Quarterly Hackathons 
 * Workshops 
 
 PROJECTS
