@@ -27,4 +27,4 @@ RESOURCES
 * Github 101 
 * Learn to code
 * Learn about the Legal Hacking greater Community
-* DC Legal Tech Community Calendar
+* DC Legal Tech Community Calendar [LAW & TECH]
